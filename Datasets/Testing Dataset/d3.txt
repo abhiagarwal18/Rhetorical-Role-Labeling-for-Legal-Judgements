@@ -1,0 +1,57 @@
+d3_s1	1.  Order passed in four appeals filed by the respondents questioning correctness of order dated 10th February, 2006 passed by a learned Single Judge of Calcutta High Court form the subject matter of challenge in this appeal. 
+d3_s2	A learned Single Judge had set aside the order dated 28.12.2004 passed by the Controller of Patents and Designs (in short the 'Controller') and remanded the matter to him for arriving at a fresh decision on the application of the writ petitioners for exclusive marketing right according to law that existed on 3rd May, 2002. 
+d3_s3	The Controller was also asked to consider the report of the examiner dated 28.7.2000. 
+d3_s4	2.  Background facts giving rise to the filing of the writ petition were as follows: 
+d3_s5	The writ petitioners filed an application for grant of patent under Section 5(2) of the Patents Act, 1970 (in short the 'Act') on 28th August, 1998. 
+d3_s6	Subsequently, on 30th June, 2000 the writ petitioners further filed an application for grant of "Exclusive Marketing Right" (in short the 'EMR'). 
+d3_s7	On July 28, 2000 the examiner filed examination report as regards the claim of the writ petitioners for grant of EMR. 
+d3_s8	The Controller of Patent, however, by order dated 3rd May, 2002 refused the prayer of the writ petitioners for EMR. 
+d3_s9	Being dissatisfied, two different writ applications were filed before the High Court being W.P.No.20469(W) of 2004 and W.P.No.20407(W) of 2004 and a learned Single Judge of the High Court set aside the order dated 3rd May, 2002 and directed the Joint Controller of Patent to consider and give order on the application for grant of EMR afresh keeping all points open. 
+d3_s10	Pursuant to the order of the learned Single Jude, dated 16th December, 2004, the Controller of Patent again rejected the application filed by the writ petitioners on December 28, 2004. 
+d3_s11	On January 1, 2005 the Patent (Amendment Act), 2005 came into operation by which various amendments to the Act were made and the Chapter IV-A which provided the mode of adjudication of the claim of EMR was totally deleted. 
+d3_s12	On June 9, 2005 the writ petitioners filed another writ application thereby challenging the order dated 28th December, 2004 passed by the Controller of Patent by which the prayer for the EMR of the writ petitioners was rejected for the second time. 
+d3_s13	Challenging the correctness of order passed by the learned Single Judge, the Controller of Patent and the Union of India filed two appeals, while two others were preferred by a third party to the proceedings who wanted to be added as party-respondent in the writ application. 
+d3_s14	The appellants raised a preliminary objection as regards maintainability of the writ petition after coming into operation of amendments into the Act w.e.f. 1st January, 2005. 
+d3_s15	According to the appellants before the High Court, with effect from 1st January, 2005 there was no scope for further considering the question of EMR as Chapter IVA of the Act has been deleted and in Section 78 of the Amending Act, it has been specifically made clear that all pending applications for grant of EMR filed under Chapter IV-A of the Principal Act which were pending on 1st January, 2005 should be treated to be a claim for patents covered under sub-section (2) of Section 5 of the Principal Act and such application should be deemed to be treated as a request for examination of grant of patents under sub-section (3) of Section 11(B) of the Act. 
+d3_s16	The stand essentially was that there was no scope for considering any pending cases for grant of EMR after 1st January, 2005 and in any case the applications relating to grant of EMR disposed of earlier cannot be revived for consideration. 
+d3_s17	Stand of the present appellants was that on the first day of January, 2005 there was no pending application filed by the writ petitioner for grant of EMR and the transitional provision in Section 78 of the Act has no application to the facts of the case. 
+d3_s18	It was pointed out that since the prayer for EMR was disposed of at a point of time when the amendment had not come into operation, therefore, there was a vested right to challenge the order before an appropriate forum in accordance with law. 
+d3_s19	The High Court was of the view that the preliminary objection regarding maintainability of the writ petition was to be accepted and therefore appeals were allowed. 
+d3_s20	So far as the third parties are concerned, the merits were not gone into. 
+d3_s21	12.  Learned counsel for the appellants in support of the appeal submitted that a crystalised right had accrued because of Section 24A and 24B and the original orders dated 3.5.2002 and 16.12.2004 were under challenge. 
+d3_s22	The order dated 28.12.2004 was passed on remand and the learned Single Judge by order dated 10.2.2006 set aside the order. 
+d3_s23	The impugned order speaks of repeal. 
+d3_s24	Reference is made to Section 24B(1) about the right having accrued. 
+d3_s25	13.  Learned counsel for the respondents on the other hand submitted that the intention of the statute appears to be to the contrary. 
+d3_s26	Therefore, the transitional provision clearly applies even if it is treated to be pending under Section 11B (3). 
+d3_s27	14.  To the present case, Section 6 of the General Clauses Act, 1897 (in short the 'General Clauses Act') applies. 
+d3_s28	It reads as follows: 
+d3_s29	Effect of repeal:- 
+d3_s30	Where this Act, or any Central Act or Regulation made after the commencement of this Act, repeals any enactment hitherto made or hereafter to be made, then unless a different intention appears, the repeal shall not- 
+d3_s31	(a) revive anything not in fore or existing at the time at which the repeal takes effect; or 
+d3_s32	(b) affect the previous operation of any enactment so repealed or anything duly done or suffered thereunder; or 
+d3_s33	(c) affect any right, privilege, obligation or liability acquired, accrued or incurred under any enactment so repealed; or 
+d3_s34	(d) affect any penalty, forfeiture or punishment incurred in respect of any offence committed against any enactment so repealed; or 
+d3_s35	(e) affect any investigation, legal proceedings or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture or punishment as aforesaid; and any such investigation, legal proceeding or remedy may be instituted, continued or enforced, and any such penalty, forfeiture or punishment may be imposed as if the repealing Act of Regulation had not been passed." 
+d3_s36	Section 24B(1) of the Act reads as follows: 
+d3_s37	Grant of exclusive of rights - (1) Where a claim for patent covered under sub-section 2 of section 5 has been made and the applicant has - 
+d3_s38	(a) where an invention has been made whether in India or a country other than India and before filing search a claim, filed an application for the same invention claiming identical article or substance in a convention country on or after the Ist day of January, 1995 and the patent and the approval to sell or distribute the article or substance on the basis of appropriate tests conducted on or after the Ist day of January, 1995 in that country has been granted or after the date of making claim for patent covered under sub-section 2 of section 5; or 
+d3_s39	(b) where an invention has been made in India and before filing search a claim, made a claim for patent on or after the Ist day of January, 1995 for method or a process of manufacture for that invention relating to identical article or substance and has been granted in India the patent therefor on or after the making the claim for patent covered under sub-section 2 of section 5, and has been received the approval to sell or distribute the article or substance from the authority specify in this behalf by the Central Government, then, we shall have the exclusive right by himself, his agents or licencee to sell or distribute in India the article or the substance on or from the date of approval granted by the Controller in this behalf till a period of five years or till the date of grant of patent or the date of rejection of application for the grant of patent, whichever is earlier." 
+d3_s40	16.  As was observed by this Court in M/s Hoosain Kasam Dada (India) Ltd. v. The State of Madhya Pradesh and Ors. 
+d3_s41	(AIR 1953 SC 221) 1953 Indlaw SC 2 when pre existing right of appeal continues to exist, by necessary implication the old law which created the right of appeal also exists to support the continuation of that right and hence the old right must govern the exercise and enforcement of that right. 
+d3_s42	In the absence of contrary intention in repealing the enactment, rights under the old statute are not destroyed. 
+d3_s43	In M/s Gurcharan Singh Baldev Singh v. Yashwant Singh and Ors. 
+d3_s44	(1992 (1) SCC 428) 1991 Indlaw SC 724, it was observed that right to proper consideration of an application by statutory authority remains alive even after repeal of the enactment under which the consideration had been sought. 
+d3_s45	17.  In Chief Adjudication Officer v. Maguire (Simon Brown LJ) (1999 (2) All ER 859) it was observed as follows: 
+d3_s46	"Inchoate rights, obligations and liabilities are covered by (c). 
+d3_s47	This was established by Free Lanka Insurance Co. Ltd. v. Ranasinghe (1964 (1) All ER 457). 
+d3_s48	In that case the Privy Council had no difficulty in construing the Ceylon Interpretation Ordinance 1900 as including an inchoate or contingent right and the same approach should be adopted to the interpretation of "right", "obligation" or "liability" in section 16 of the 1978 Act. 
+d3_s49	The section clearly contemplates that there will be situations where an investigation, legal proceeding or remedy may have to be instituted before the right or liability can be enforced and this supports this approach." 
+d3_s50	18.  The learned Single Judge's view that the provisions of Section 78 of the Amendment Act have no application to the proceedings which stood concluded before the appointed day appears to be the correct view governing the issue. 
+d3_s51	Since the Chapter IV-A in question was merely repealed, the situation has to be dealt with in line with Section 6 of the General Clauses Act. 
+d3_s52	The provisions of Section 78 are conditional provisions and are not intended to cover cases where the application for EMR had been rejected with reference to Section 21 of the Amending enactment. 
+d3_s53	As noted above, Chapter IV A was repealed. 
+d3_s54	The effect of the repeal has to be ascertained in the background of Section 6 of the General Clauses Act. 
+d3_s55	That being so, the order of the Division Bench cannot be sustained and that of the learned Single Judge has to operate. 
+d3_s56	The appeal is allowed but in the circumstances without any order as to costs. 
+d3_s57	Appeal allowed 

@@ -1,0 +1,87 @@
+d9_s1	Leave granted. 
+d9_s2	The appellant (hereinafter referred to as "the Management") is aggrieved by the impugned judgment of the High Court whereby the first respondent (hereinafter referred to as "the employee") was directed to be reinstated in service with 50 per cent back wages, reversing the order passed by the Industrial Tribunal-cum-Labour Court. 
+d9_s3	The employee, while working with the Management, submitted a certificate purportedly issued by the Indian Institute of Bankers claiming that she had passed the CAIIB Part-II Examination, and on that basis, started drawing additional monetary benefits. 
+d9_s4	The Disciplinary Authority, based on the finding in a domestic enquiry that the certificate was a forged one, dismissed her from service on 01.08.2003. 
+d9_s5	The punishment was upheld by the Appellate Authority vide order dated 10.06.2006. 
+d9_s6	The Industrial Tribunal-cum-Labour Court declined to grant any relief. 
+d9_s7	However, the High Court ordered reinstatement with 50 per cent back wages, and thus aggrieved, the Management has filed the appeal. 
+d9_s8	The only ground on which the High Court interfered with the award was that the Management had not established, by leading evidence, that the employee was aware of the fact that the certificate produced before the Management was forged. 
+d9_s9	To quote from impugned judgment: 
+d9_s10	The question, therefore, before the Enquiry Officer was whether the petitioner knew at the time of submission of the forged document that it was forged one. 
+d9_s11	The Presenting Officer in the domestic enquiry did not lead any evidence to prove the knowledge and it appears that everyone went on presuming that the petitioner knew about the forgery since prior to its production before the employer. 
+d9_s12	Due to the fact that she produced it on the employer's record and that she received monetary benefits because of such production, every one believed that she ought to know that it was a forgery. 
+d9_s13	This conclusion of the Enquiry Officer is grossly incorrect because it is based on guess work. 
+d9_s14	He could have said that there is strong doubt in his mind that the petitioner knew before hand that the certificate was a forgery. 
+d9_s15	But, he ought to have asked the Presenting Officer to lead further evidence to prove that the petitioner knew that the document she produced was forgery. 
+d9_s16	Neither the Presenting Officer realised this gross lacuna in their case. 
+d9_s17	On the basis of this guess and doubt, the enquiry officer held the petitioner guilty of misconduct. 
+d9_s18	This, in my view was grossly incorrect decision." 
+d9_s19	We find it difficult to appreciate the strange stand taken by the High Court. 
+d9_s20	The Labour Court had clearly analysed the entire evidence and had come to the conclusion that the employee was fully aware of the forgery. 
+d9_s21	The Tribunal took note of the fact that she had produced a copy of the postal receipt of dispatching the certificate from the Institute of Bankers in her evidence but failed to explain the source of the postal receipt. 
+d9_s22	It also took note of the fact that the alleged certificate of having passed the examination is dated 04.09.2000. 
+d9_s23	If that be so, there was no occasion for asking for any re-verification of the marks by filing an application dated 08.09.2000. 
+d9_s24	Still further, the Court extensively referred to the reply furnished by the Institute of Bankers and came to the conclusion that the certificate was a forged one. 
+d9_s25	To quote from paragraph-10 of the award dated 30.08.2011 passed by the Industrial Tribunal-cum-Labour Court: 
+d9_s26	"10. ....The workman has claimed that she received the pass certificates from the Indian Institute of Bankers by registered speed post in her home address and filed the same before the authority. 
+d9_s27	In support of her claim, she filed an envelope to show that the certificate in question was sent to her in the said envelop by the Indian Institute of Bankers. 
+d9_s28	However, from by merely filing of the envelope, it cannot be held that the certificate in question was sent by the Institute in question to the workman in the said envelope. 
+d9_s29	Moreover, there are other suspicious circumstances which create doubt regarding the said claim of the workman. 
+d9_s30	If the certificate was actually sent in the said envelop by the Indian Institute of Bankers by registered speed post from Mumbai to the workman in her home address, then the receipt granted by the post office for sending the envelop by registered speed post must have been granted to the institute and the institute should have in possession of the same in the office, to keep account of the same, but the workman has also filed the zerox copy of the receipt alongwith of the envelope, to show the date of dispatch of the envelope, but she did not say how she was in possession of the said postal receipt. 
+d9_s31	It is also pleaded by the workman in the statement of claim that she failed in part II of CAIIB examination and applied for verification of marks visiting in person to CAIIB office at Mumbai and on verification and revaluation, she was declared pass. 
+d9_s32	In the statement of claim she had not mentioned the date of her visit to CAIIB office. 
+d9_s33	However, she has filed the zerox copy of the letter, Exhibit W-17 to show that she applied for revaluation of her answer paper and the said letter shows that it was submitted on 18.9.2000. 
+d9_s34	However, Exhibit W-15, filed by the workman shows that by letter dated 4.9.2000, she was intimated by the Indian Institute of Bankers that she had completed the Associate examination of the Institute and is entitled to receive the relevant certificate. 
+d9_s35	If the workman had received the intimation of completion of the examination, then there was no question of her applying for revaluation of the examination paper and if she had failed in the examination and she approached the Institute for revaluation of her answer paper on 18.09.2000, then there was no question of the Institute intimating her by letter dated 04.09.2000 regarding her completion of the examination and issuance of the certificate. 
+d9_s36	So it is clear from the materials produced by the parties in the departmental proceedings that the workman knowingly produced the pass certificate of part II CAIIB examination, which was a fabricated one, for monetary gain on ongoing basis and the findings of the enquiry officer are based on the materials on record and are not perverse....." 
+d9_s37	The evidence led by the employee, as rightly appreciated by the Industrial Tribunal, would clearly show that she had the knowledge that the document she produced was a forged one. 
+d9_s38	Therefore, there was no requirement on the part of the Management to establish whether she had known, at the time of submission of the document, that it was a forged one. 
+d9_s39	It is a well-settled principle that the High Court will not re-appreciate the evidence but will only see whether there is evidence in support of the impugned conclusion. 
+d9_s40	The court has to take the evidence as it stands and its only limited jurisdiction is to examine, whether on the evidence, the conclusion could have been arrived at. 
+d9_s41	(See - Union of India v. H.C. Goel). 
+d9_s42	In the case of Bank of India and another v. Degala Suryanarayana2 1999 Indlaw SC 866, after referring to H.C. Goel case (supra), this Court held at paragraph-11 :- 
+d9_s43	Strict rules of evidence are not applicable to departmental enquiry proceedings. 
+d9_s44	The only requirement of law is that the allegation against the delinquent officer must be established by such evidence acting upon which a reasonable person acting reasonably and with objectivity may arrive at a finding upholding the gravamen of the charge against the delinquent officer. 
+d9_s45	Mere conjecture or surmises cannot sustain the finding of guilt even in departmental enquiry proceedings. 
+d9_s46	The court exercising the jurisdiction of judicial review would not interfere with the findings of fact arrived at in the departmental enquiry proceedings excepting in a case of mala fides or perversity i.e. where there is no evidence to support a finding or where a finding is such that no man acting reasonably and with objectivity could have arrived at that finding. 
+d9_s47	The court cannot embark upon reappreciating the evidence or weighing the same like an appellate authority. 
+d9_s48	So long as there is some evidence to support the conclusion arrived at by the departmental authority, the same has to be sustained. ..." 
+d9_s49	We do not think it necessary to refer to any other judgments on the same point, since the same principle has been only followed and reiterated in all those decisions. 
+d9_s50	In the case before us, it is an admitted position that the certificate produced by the employee is a forged one. 
+d9_s51	It has been categorically found by the Industrial Tribunal, on the basis of evidence, that the employee was fully aware of the fact that the document was a forged one. 
+d9_s52	In such circumstances, there is no basis at all for the stand taken by the High Court that the Management did not establish that the employee had knowledge about the certificate being a forged one. 
+d9_s53	Despite the factual and legal position as above, we had made one more attempt for the verification of the certificate from the Institute of Bankers. 
+d9_s54	Thus, on 08.08.2016, this Court passed the following order: 
+d9_s55	"The Deputy Director (Examinations) of The Indian Institute of Bankers shall inform this Court as to whether the candidate Mrs. section section Deshmukh (Membership No. 5880536) had actually applied for revaluation of Part II of CAIIB Examination in the year 2000 and what is the action taken on that application and also whether the action thus taken, was informed to Mrs. Deshmukh. 
+d9_s56	Needless to say that in the report, it would be made clear that whether Mrs. Deshmukh had actually passed in the revaluation. 
+d9_s57	The report shall be submitted to the Registrar of this Court within four weeks from today. 
+d9_s58	The Registry shall communicate a copy of this order to the Deputy Director, Indian Institute of Bankers forthwith. 
+d9_s59	In addition, a copy of this order be given Dasti to the parties for communication. 
+d9_s60	Post on 21.09.2016." 
+d9_s61	The Institute has, by its letter dated 03.09.2016, informed this Court that: 
+d9_s62	"Ref : IIBF/CO/EXAM/4832/2016 3rd September, 
+d9_s63	The Registrar 
+d9_s64	Supreme Court of India, Tilak Marg, 
+d9_s65	New Delhi-110 201 
+d9_s66	(India) Sir, 
+d9_s67	Re: SLP (C) No. 33070/2013 
+d9_s68	In the matter of - 
+d9_s69	The Management of State Bank of India v/s Smita Sharad Deshmukh & Another. 
+d9_s70	This has reference to order date the 8th August, 2016 by the Hon'ble Court in the captioned matter interalia seeking details from the Institute as to whether the candidate Mrs. S.S. Deshmukh (Membership No. 5880536) had actually applied for revaluation of part II of CAIIB Examination. 
+d9_s71	In this connection this is to inform that Mrs. Deshmukh had appeared for following 2 subjects in May/June 2000 Examination conducted by the Institute and has secured the marks shown against each of the subjects. 
+d9_s72	Practice & Law of Banking - 45 Marks 
+d9_s73	Indian Economics Problem - 23 Marks 
+d9_s74	This is to inform further that the Institute has provision only for verification of marks and no request was received from Mrs. Deshmukh for verification of marks in connection with above said examination. 
+d9_s75	Thanking you, Yours faithfully, 
+d9_s76	(Joint Director) Examination" 
+d9_s77	Despite the clear position as above, the employee filed a response on 13.01.2017 reiterating that she had "... actually applied for revaluation of Part II of CAIIB Examination in the year 2000 ...". 
+d9_s78	A copy of the application also was produced along with reply as Annexure-R1. 
+d9_s79	It is a handwritten letter by the Management-Bank to the Institute of Bankers on 08.09.2000 but enclosing a draft dated 14.09.2000. 
+d9_s80	There is also an alleged endorsement of receipt of the letter by the Institute on 18.09.2000 on hand delivery. 
+d9_s81	It may be noted that the forged certificate of pass in the examination and the memorandum accompanying it are dated 04.09.2000. 
+d9_s82	One wonders as to what was the need for revaluation once a candidate had been declared successful on 04.09.2000, leave alone the anachronic error on the dates on the application and the draft! We reluctantly refrain from making any further observations in this regard. 
+d9_s83	Though learned counsel for the employee made a persuasive attempt for modification of punishment on the ground of disproportionality, in view of the conduct of the employee which we have referred to above, we are not inclined to take a different view from that taken by the Disciplinary Authority, Appellate Authority and the Industrial Tribunal-cum-Labour Court. 
+d9_s84	The impugned judgment of the High Court is set aside and the appeal is allowed. 
+d9_s85	However, we make it clear that there shall be no recovery of the wages and benefits already paid to her. 
+d9_s86	There shall be no order as to costs. 
+d9_s87	Appeal allowed 
